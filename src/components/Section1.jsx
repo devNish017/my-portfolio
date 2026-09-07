@@ -71,7 +71,7 @@ const Section1 = () => {
         
        
       <CoolMode particleCount={20} particle="sparkle" >  <a
-  href="/Nishant_Dwivedi_Resume2.pdf"
+  href="/Resume_Nishant_Dwivedi (2).pdf"
   download
   className="border border-gray-400 px-3 py-2 rounded-md font-medium flex items-center gap-2 transition-all duration-300 hover:text-green-500  hover:border-green-500 hover:-translate-y-1"
 >
